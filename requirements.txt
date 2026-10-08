@@ -1,0 +1,4 @@
+# Required: global mouse/keyboard hooks and playback
+pynput>=1.8.2
+# Optional: QR code in the donate window (the program works without it)
+qrcode>=8.2
