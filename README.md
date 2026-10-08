@@ -42,7 +42,7 @@ Auto Clicker: Mouse and Keyboard Recorder is a small Windows program that record
 3. Start the program:
 
     ```bash
-    python Auto_Clicker_Claude_v12.py
+    python AutoClicker.py
     ```
 
 ### How to use
@@ -163,7 +163,7 @@ Auto Clicker: Mouse and Keyboard Recorder — небольшая програм�
 3. Запустите программу:
 
     ```bash
-    python Auto_Clicker_Claude_v12.py
+    python AutoClicker.py
     ```
 
 ### Как пользоваться
